@@ -1,1 +1,2 @@
-# complete-qualified-assessment
+# complete-qualified-assessment 
+Testing writing fuctions in JavaScript
